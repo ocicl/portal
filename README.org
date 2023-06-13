@@ -1,0 +1,10 @@
+* portal
+
+Portable Websocket Server for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/charJe/portal.git   |
+| commit  | 416589f  |
+| systems | portal |
+|---------+-------------------------------------------|
+
